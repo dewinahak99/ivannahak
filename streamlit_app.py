@@ -5,6 +5,7 @@ import numpy as np
 # Judul aplikasi
 st.title("Aplikasi Ivan Nahak")
 
+
 # Teks pengantar
 st.write("""
 Ini adalah aplikasi sederhana untuk menampilkan data acak dalam bentuk grafik.
