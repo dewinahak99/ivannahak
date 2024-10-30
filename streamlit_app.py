@@ -2,8 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+
 # Judul aplikasi
 st.title("Aplikasi Ivan Nahak")
+
 
 
 # Teks pengantar
